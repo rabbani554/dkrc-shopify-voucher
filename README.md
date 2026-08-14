@@ -194,20 +194,7 @@ Rotate `SHOPIFY_ADMIN_TOKEN` tiap 90 hari:
 
 ---
 
-## 📞 Kontak
-
-- **PIC DKRC Engineering:** [nama] — WA/Slack `[handle]`
-- **Repo app DKRC:** private (internal)
-- **Preview URL fitur:** `https://app.dkrc.id/dashboard/member/voucher`
-  _(hanya bisa diakses member yang login — untuk testing sebelum launch publik)_
-
-Pertanyaan / issue apapun, chat langsung di grup ini atau buka
-[Issue di repo ini](../../issues).
-
----
-
 ## 📄 Lisensi
 
 Dokumentasi ini bersifat internal DKRC — free to reference untuk keperluan
-integrasi resmi dengan Duraking / partner Shopify. Tidak untuk redistribusi
-publik.
+integrasi resmi dengan Duraking / Shopify.
