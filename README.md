@@ -64,7 +64,7 @@ Member DKRC bisa generate voucher diskon 10% dari app DKRC. Detail:
 
 ## 👥 Tanggung Jawab Setup
 
-| Area | DKRC Engineering | Marketplace Team |
+| Area | DKRC | Marketplace Team |
 |---|:---:|:---:|
 | Bikin Custom App di Shopify Admin | — | ✅ |
 | Provide Admin API access token | — | ✅ |
